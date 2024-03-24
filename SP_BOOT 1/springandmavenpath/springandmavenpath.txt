@@ -1,0 +1,7 @@
+path=%JAVA_HOME%\bin;%M2_HOME%\bin;E:\SpringBootManish\spring-1.5.8.RELEASE\bin;
+
+JAVA_HOME=C:\Program Files (x86)\Java\jdk1.8.0
+M2_HOME=C:\Program Files\apache-maven-3.5.0
+MAVEN_HOME=C:\Program Files\apache-maven-3.5.0;
+
+mvn spring-boot:run
